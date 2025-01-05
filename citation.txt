@@ -1,0 +1,8 @@
+@inproceedings{REPO350,
+    author = "Chen, Dave Zhenyu and Chang, Angel X and Nie{\ss}ner, Matthias",
+    booktitle = "Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XX 16",
+    organization = "Springer",
+    pages = "202--221",
+    title = "{Scanrefer: 3d object localization in rgb-d scans using natural language}",
+    year = "2020"
+}
